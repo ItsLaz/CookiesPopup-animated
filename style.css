@@ -21,11 +21,14 @@ body {
   font-family: "Poppins", sans-serif;
   align-items: center;
   justify-content: space-around;
+  overflow: hidden;
 }
 .text {
   width: 60%;
 }
-
+.cookie {
+  overflow: visible;
+}
 .cookie-title {
   font-size: 1.2rem;
   font-weight: lighter;
